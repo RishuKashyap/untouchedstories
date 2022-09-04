@@ -1,0 +1,62 @@
+@media (max-width:500px) {
+     
+    section{
+    background-color: burlywood;
+    width: 80vw;
+    margin:auto;
+}
+h2{
+    text-align: center;
+    padding-top: 1rem;
+}
+
+input{
+    padding: 5px;
+    margin: 10px;
+    width: 60vw;
+    
+}
+
+.signupbtn{
+    width: 10vw;
+    border-radius: 10px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+}
+@media (max-width:1600px) {
+     
+    section{
+    background-color: burlywood;
+    width: 40vw;
+    margin:auto;
+}
+h2{
+    text-align: center;
+    padding-top: 1rem;
+}
+
+input{
+    padding: 5px;
+    margin: 10px;
+    width: 30vw;
+    
+}
+
+.signupbtn{
+    width: 10vw;
+    border-radius: 10px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+}
